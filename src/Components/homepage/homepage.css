@@ -1,0 +1,59 @@
+footer{
+    background-color: rgba(16, 142, 41, 0.83);
+    padding: 30px;
+}
+.fbfoot{
+    width: 15%;
+    margin-right: 8px;
+
+}
+.linfoot{
+    width: 15%;
+    margin-right: 8px;
+}
+.twifoot{
+    width: 15%;
+}
+.footimg{
+    margin-left: 35%;
+    margin-top: 30px;
+}
+.footlogo{
+    margin-left:110px;
+    width: 30%;
+    height: 60px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.privacy{
+    margin-left:40px;
+    margin-top:10px;
+    font-size: 15px;
+    word-spacing: 3px;
+}
+.privacy a:hover{
+    color:rgb(10, 0, 83);
+}
+.copy{
+    font-size: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.copy a:hover{
+    color:rgb(10, 0, 83);
+}
+.fot{
+    line-height: 2;
+    list-style-type: none;
+}
+a {
+    text-decoration: none !important;
+    color: whitesmoke;
+}
+.get{
+    margin-left: 130px;
+    margin-top: -125px;
+    text-align: center;
+    line-height: 2;
+    color: whitesmoke;
+}
